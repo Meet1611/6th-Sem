@@ -1,0 +1,120 @@
+﻿@using System.Data
+@{
+    ViewData["Title"] = "Employee List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<main id="main" class="main">
+
+    <div class="pagetitle">
+        <h1>Employee</h1>
+        <nav>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item">
+                    <a asp-controller="HomeMaster" asp-action="Index">Home</a>
+                </li>
+                <li class="breadcrumb-item active">Employee List</li>
+            </ol>
+        </nav>
+
+        <div class="d-flex justify-content-end mb-2">
+            <a class="btn btn-outline-primary" asp-controller="Employee" asp-action="AddEdit">
+                Add Employee
+            </a>
+        </div>
+    </div>
+
+    <input type="text" class="form-control mb-3" id="searchBox" placeholder="Search">
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+    }
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+    }
+
+    <!-- Search Form -->
+    <form method="post" asp-action="Index" class="mb-4">
+        <div class="row">
+            <div class="col-md-2">
+                <input type="text" name="EmpName" class="form-control" placeholder="Employee Name"
+                    value="@ViewBag.EmpName" />
+            </div>
+
+            <div class="col-md-2">
+                <input type="text" name="Salary" class="form-control" placeholder="Salary" value="@ViewBag.Salary" />
+            </div>
+
+            <div class="col-md-2">
+                <input type="text" name="JoiningDate" class="form-control" placeholder="Joining Date"
+                    value="@ViewBag.JoiningDate" />
+            </div>
+
+            <div class="col-md-2">
+                <input type="text" name="City" class="form-control" placeholder="City" value="@ViewBag.City" />
+            </div>
+
+            <div class="col-md-2">
+                <select name="DepID" class="form-control"
+                    asp-items="@(new SelectList(ViewBag.DepartmentList, "DepID", "DepartmentName", ViewBag.SelectedDepID))">
+                    <option value="0">Select Department</option>
+                </select>
+            </div>
+
+            <div class="row justify-content-end mt-4">
+                <div class="col-md-2">
+                    <button type="submit" class="btn btn-primary w-100">Search</button>
+                </div>
+
+                <div class="col-md-1">
+                    <a href="@Url.Action("Index")" class="btn btn-secondary w-100">Clear</a>
+                </div>
+            </div>
+        </div>
+    </form>
+
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>Employee Name</th>
+                <th>Department</th>
+                <th class="text-center">Actions</th>
+            </tr>
+        </thead>
+
+        <tbody id="tableRows">
+            @foreach (DataRow row in Model.Rows)
+            {
+                <tr>
+                    <td>@row["EmpName"]</td>
+
+                    <td>@row["DepartmentName"]</td>
+
+                    <td class="text-center">
+                        <a class="btn btn-outline-success btn-sm" asp-controller="Employee" asp-action="AddEdit"
+                            asp-route-EmpID="@row["EmpID"]">Edit</a>
+
+                        <a class="btn btn-outline-danger btn-sm" asp-controller="Employee" asp-action="Delete"
+                            asp-route-EmpID="@row["EmpID"]" onclick="return confirm('Delete this Employee?');">
+                            Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</main>
+
+@section Scripts {
+    <script>
+        $("#searchBox").on("keyup", function () {
+            var value = $(this).val().toLowerCase();
+            $("#tableRows tr").filter(function () {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1);
+            });
+        });
+    </script>
+}
