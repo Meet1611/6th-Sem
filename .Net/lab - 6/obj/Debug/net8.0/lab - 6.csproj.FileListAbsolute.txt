@@ -1,0 +1,15 @@
+D:\B.Tech\6th Sem\6th Sem\.Net\lab - 6\bin\Debug\net8.0\lab - 6.exe
+D:\B.Tech\6th Sem\6th Sem\.Net\lab - 6\bin\Debug\net8.0\lab - 6.deps.json
+D:\B.Tech\6th Sem\6th Sem\.Net\lab - 6\bin\Debug\net8.0\lab - 6.runtimeconfig.json
+D:\B.Tech\6th Sem\6th Sem\.Net\lab - 6\bin\Debug\net8.0\lab - 6.dll
+D:\B.Tech\6th Sem\6th Sem\.Net\lab - 6\bin\Debug\net8.0\lab - 6.pdb
+D:\B.Tech\6th Sem\6th Sem\.Net\lab - 6\obj\Debug\net8.0\lab - 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\B.Tech\6th Sem\6th Sem\.Net\lab - 6\obj\Debug\net8.0\lab - 6.AssemblyInfoInputs.cache
+D:\B.Tech\6th Sem\6th Sem\.Net\lab - 6\obj\Debug\net8.0\lab - 6.AssemblyInfo.cs
+D:\B.Tech\6th Sem\6th Sem\.Net\lab - 6\obj\Debug\net8.0\lab - 6.csproj.CoreCompileInputs.cache
+D:\B.Tech\6th Sem\6th Sem\.Net\lab - 6\obj\Debug\net8.0\lab - 6.sourcelink.json
+D:\B.Tech\6th Sem\6th Sem\.Net\lab - 6\obj\Debug\net8.0\lab - 6.dll
+D:\B.Tech\6th Sem\6th Sem\.Net\lab - 6\obj\Debug\net8.0\refint\lab - 6.dll
+D:\B.Tech\6th Sem\6th Sem\.Net\lab - 6\obj\Debug\net8.0\lab - 6.pdb
+D:\B.Tech\6th Sem\6th Sem\.Net\lab - 6\obj\Debug\net8.0\lab - 6.genruntimeconfig.cache
+D:\B.Tech\6th Sem\6th Sem\.Net\lab - 6\obj\Debug\net8.0\ref\lab - 6.dll
