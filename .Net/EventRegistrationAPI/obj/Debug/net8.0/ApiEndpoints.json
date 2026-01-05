@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "EventRegistrationAPI.Controllers.EventRegistrationController",
+    "Method": "GetAll",
+    "RelativePath": "api/EventRegistration",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventRegistrationAPI.Controllers.EventRegistrationController",
+    "Method": "Create",
+    "RelativePath": "api/EventRegistration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "EventRegistrationAPI.DTOs.CreateEventRegistrationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventRegistrationAPI.Controllers.EventRegistrationController",
+    "Method": "GetById",
+    "RelativePath": "api/EventRegistration/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventRegistrationAPI.Controllers.EventRegistrationController",
+    "Method": "Update",
+    "RelativePath": "api/EventRegistration/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "EventRegistrationAPI.DTOs.UpdateEventRegistrationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventRegistrationAPI.Controllers.EventRegistrationController",
+    "Method": "Delete",
+    "RelativePath": "api/EventRegistration/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

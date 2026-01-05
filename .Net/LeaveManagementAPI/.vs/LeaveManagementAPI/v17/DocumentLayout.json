@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|d:\\b.tech\\6th sem\\6th sem\\.net\\leavemanagementapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|d:\\b.tech\\6th sem\\6th sem\\.net\\leavemanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|d:\\b.tech\\6th sem\\6th sem\\.net\\leavemanagementapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|d:\\b.tech\\6th sem\\6th sem\\.net\\leavemanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|d:\\b.tech\\6th sem\\6th sem\\.net\\leavemanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|d:\\b.tech\\6th sem\\6th sem\\.net\\leavemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +31,8 @@
       "RelativeMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|solutionrelative:leavemanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|d:\\b.tech\\6th sem\\6th sem\\.net\\leavemanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|d:\\b.tech\\6th sem\\6th sem\\.net\\leavemanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|d:\\b.tech\\6th sem\\6th sem\\.net\\leavemanagementapi\\migrations\\20251217030535_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|solutionrelative:migrations\\20251217030535_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|d:\\b.tech\\6th sem\\6th sem\\.net\\leavemanagementapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|d:\\b.tech\\6th sem\\6th sem\\.net\\leavemanagementapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|d:\\b.tech\\6th sem\\6th sem\\.net\\leavemanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C981D78-A833-40BC-93D7-2D782583AE05}|LeaveManagementAPI.csproj|d:\\b.tech\\6th sem\\6th sem\\.net\\leavemanagementapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,69 +62,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAA0wI0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T03:39:02.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20251217030535_InitialCreate.cs",
-              "DocumentMoniker": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\Migrations\\20251217030535_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251217030535_InitialCreate.cs",
-              "ToolTip": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\Migrations\\20251217030535_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20251217030535_InitialCreate.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwDQAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T03:05:35.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "RolesController.cs",
               "DocumentMoniker": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\Controllers\\RolesController.cs",
               "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
               "ToolTip": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\Controllers\\RolesController.cs",
               "RelativeToolTip": "Controllers\\RolesController.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAcwHYAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAcwHYAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T03:04:13.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "ToolTip": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T03:55:00.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-12-15T03:54:24.341Z",
               "EditorCaption": ""
@@ -137,14 +111,14 @@
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
               "ToolTip": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T03:50:05.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "LeaveManagementAPI.csproj",
               "DocumentMoniker": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\LeaveManagementAPI.csproj",
               "RelativeDocumentMoniker": "LeaveManagementAPI.csproj",
@@ -152,8 +126,7 @@
               "RelativeToolTip": "LeaveManagementAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-15T03:49:41.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T03:49:41.005Z"
             },
             {
               "$type": "Document",
@@ -165,8 +138,7 @@
               "RelativeToolTip": "Models\\LeaveBalance.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T03:40:23.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T03:40:23.713Z"
             },
             {
               "$type": "Document",
@@ -178,8 +150,7 @@
               "RelativeToolTip": "Models\\LeaveRequest.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T03:39:56.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T03:39:56.366Z"
             },
             {
               "$type": "Document",
@@ -191,12 +162,11 @@
               "RelativeToolTip": "Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T03:38:04.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T03:38:04.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -209,6 +179,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T03:39:02.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251217030535_InitialCreate.cs",
+              "DocumentMoniker": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\Migrations\\20251217030535_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251217030535_InitialCreate.cs",
+              "ToolTip": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\Migrations\\20251217030535_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20251217030535_InitialCreate.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T03:05:35.974Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "LeaveManagementAPI.http",
               "DocumentMoniker": "D:\\B.Tech\\6th Sem\\6th Sem\\.Net\\LeaveManagementAPI\\LeaveManagementAPI.http",
@@ -217,8 +212,7 @@
               "RelativeToolTip": "LeaveManagementAPI.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-12-15T04:03:54.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T04:03:54.909Z"
             },
             {
               "$type": "Document",
@@ -230,8 +224,7 @@
               "RelativeToolTip": "Models\\LeaveType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T03:39:28.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T03:39:28.441Z"
             }
           ]
         }
